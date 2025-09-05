@@ -34,3 +34,4 @@ Also the cluster data gets stored in fire data. With fireid, frames where they a
 I decided to first build the mask for malfunctioning pixels to prevent the fire detection algorithm to work with a lot of false data.
 As an extension of the pipeline, the fire clusters can be compared to the total detected clusters and all remaining pixels can be reevaluated for drifting pixels and fed back into the malfunctioning pixel mask.
 Also the dead pixel detection was prepared to be extended, to be able to work with incoming inputs, so it checks frame after frame and adjusts the mask accordingly.
+To identify the firepixel more precise M0 can be integrated aswell, for this a clearer pixelvalue analysis approach is needed.
