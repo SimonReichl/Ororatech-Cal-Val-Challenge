@@ -1,6 +1,6 @@
 # Ororatech-Cal-Val-Challenge
 
-This repository is my submission for the working student mission. It contains 3 pipelines for the 3 different parts of the challenge.
+This repository is my submission for the working student challenge. It contains 3 pipelines for the 3 different parts of the challenge.
 Due to the missing georeference info I did some workarounds, e.g for the Tiffs I just used transformation = none to be able to view it in QGIS.
 Also for the fire analysis I was not able to use Pixel geocoordinates. With those it would be easier to track the fire and mutliband indices could be integrated in the fire detection.
 
