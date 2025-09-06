@@ -1,4 +1,4 @@
-# Ororatech-Cal-Val-Challenge
+# WK-challenge
 
 This repository is my submission for the working student challenge. It contains 3 pipelines for the 3 different parts of the challenge.
 Due to the missing georeference info I did some workarounds, e.g for the Tiffs I just used transformation = none to be able to view it in QGIS.
